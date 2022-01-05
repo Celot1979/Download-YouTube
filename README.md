@@ -10,3 +10,9 @@ Code with a graphic from the Tkinter library to implement address to the video a
 # Instructions
 1º Conar Repository if you want to use it from an IDE
 2º Exercise it and fill in the spaces requested in the interface
+
+# What can be found in the tags?
+
+The 1st Tag is purely raw code so that the user can clone and make an executable on his computer.
+
+The 2nd Tag is an executable created for any platform
